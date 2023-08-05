@@ -3,7 +3,7 @@
     margin: 10px;
     padding: 20px;
     font-weight: bold;
-    color: rgb(7, 97, 142);
+    color: rgb(3, 14, 19);
 }
 
 .row-main {
@@ -17,7 +17,7 @@
 }
 
 .thead-dark {
-    background-color: #60c6f6;
+    background-color: #8bcfee;
     text-align: center;
 
     /* border: 1px solid grey; */
@@ -28,7 +28,7 @@ tr {
 }
 
 td {
-    padding-left: 60px;
+    padding-left: 40px;
 
 }
 
@@ -73,11 +73,11 @@ td {
 }
 
 #datas {
-    color: #73bde0;
+    color: #0a8dca;
 }
 
 .rows {
     border-style: solid;
-    border-width: 5px;
-    border-color: aqua;
+    border-width: 3px;
+    border-color: rgb(1, 11, 11);
 }

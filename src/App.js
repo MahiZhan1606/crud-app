@@ -9,26 +9,26 @@ function App() {
   const [formList, setFormList] = useState([
     {
       id: 1,
-      name: "Sabari Arun",
-      email: "sabariganesh@gmail.com",
+      name: "Maheswaran",
+      email: "Maheswaran@gmail.com",
       content: "Full Stack Devoloper",
     },
     {
       id: 2,
-      name: "Bala Krishnan",
-      email: "bala@gmail.com",
+      name: "Mahizhini",
+      email: "Mahizhini@gmail.com",
       content: "Marketing Manager",
     },
     {
       id: 3,
-      name: "Ezhil Surya",
-      email: "Ezhil@gmail.com",
+      name: "Mahizhan",
+      email: "Mazhizhan@gmail.com",
       content: "IT Support",
     },
     {
       id: 4,
-      name: "Dinesh",
-      email: "Dinesh@gmail.com",
+      name: "Yazhan",
+      email: "Yazhan@gmail.com",
       content: "Facilitive Manager",
     }
   ]);
